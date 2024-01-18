@@ -1,0 +1,1 @@
+Q15: Select * from Employees ORDER BY Salary DESC LIMIT(5);

@@ -1,0 +1,1 @@
+Q16: Select Customer_ID,Count(Customer_ID) As No_of_Orders from Orders Group By Customer_ID Order By No_of_Orders DESC LIMIT(3);

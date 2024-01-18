@@ -1,0 +1,2 @@
+
+      Q11:  Select c.* from Customer As c LEFT JOIN Orders As o ON c.ID = o.Customer_ID;

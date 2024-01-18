@@ -1,0 +1,2 @@
+Q13: Set SQL SAFE_UPDATES;
+     Set Customers City = "Mumbai" where City like "Delhi";

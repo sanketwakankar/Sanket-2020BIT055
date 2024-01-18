@@ -1,0 +1,7 @@
+Name of student: Sanket Arjun Wakankar
+Name of the project: Ticketing System.
+Theme of the project with Objective: To book,cancel bus tickets using the bus schedule of the particular day,
+                                    Make payments using razorpay payment gateway, claim for refund if booking is cancelled.
+Career aspiration and goals: Want to see myself as a successful and experienced software developer, And to explore new
+                             new technologies that will help for my growth in IT field.
+Subject of Interest: Software Development.
